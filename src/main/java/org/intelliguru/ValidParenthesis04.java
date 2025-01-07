@@ -2,7 +2,7 @@ package org.intelliguru;
 
 import java.util.Stack;
 
-public class ValidParenthesis {
+public class ValidParenthesis04 {
     /**
      Given a string s containing just the characters
      '(', ')', '{', '}', '[' and ']', determine if the input string is valid.

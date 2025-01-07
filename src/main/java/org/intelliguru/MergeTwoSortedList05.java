@@ -1,6 +1,6 @@
 package org.intelliguru;
 
-public class MergeTwoSortedList {
+public class MergeTwoSortedList05 {
     public static class ListNode{
         int value;
         ListNode next;

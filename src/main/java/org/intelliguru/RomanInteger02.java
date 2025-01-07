@@ -3,7 +3,7 @@ package org.intelliguru;
 import java.util.HashMap;
 import java.util.Map;
 
-public class RomanInteger {
+public class RomanInteger02 {
 
 //    Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 //
