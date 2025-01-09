@@ -21,4 +21,7 @@ public class IndexOfFirstOccurrenceInString07 {
         }
         return -1;
     }
+    public int haystackNeedleV3(String haystack, String needle) {
+       return haystack.indexOf(needle);
+    }
 }
