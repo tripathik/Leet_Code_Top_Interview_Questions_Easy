@@ -9,9 +9,9 @@ public class Main {
 //        MergeTwoSortedList.ListNode listNode = mts.mergeTwoLists(list1, list2);
 
 
-        RemoveDuplicatesFromSortedArray06 rd = new RemoveDuplicatesFromSortedArray06();
-        int[] nums = {1,1,2};
-        int result = rd.removeDuplicateUsingTwoPointer(nums);
+        String haystack = "sadbutsad", needle = "sad";
+        IndexOfFirstOccurrenceInString07 inString = new IndexOfFirstOccurrenceInString07();
+        int i  = inString.haystackNeedle(haystack, needle);
     }
 
 //    private static MergeTwoSortedList.ListNode createLinkedList(int[] values) {
